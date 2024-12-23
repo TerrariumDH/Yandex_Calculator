@@ -1,7 +1,7 @@
 package calculator_test
 
 import (
-	"_/C_/Users/matve/projects/Yandex_Calculator/pkg/calculator"
+	"github.com/TerrariumDH/Yandex_Calculator/pkg/calculator"
 	"testing"
 )
 
